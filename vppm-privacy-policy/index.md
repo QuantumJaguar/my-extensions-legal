@@ -1,10 +1,10 @@
-## Privacy Policy & Terms of Use
+## Privacy Policy & Terms of Use for Vppm Password Manager
 
 **Last Updated:** November 1, 2025
 
 ## Privacy Policy
 
-This extension (VoicePresso Password Manager or VPPM) was built on a **privacy-first** philosophy. We do not sell your data.
+This extension (VPPM Password Manager) was built on a **privacy-first** philosophy. We do not sell your data.
 
 ### Your Master Password
 
@@ -37,7 +37,7 @@ This extension makes one (1) anonymous network request approximately every 6 hou
 
 ## Terms of Use
 
-By installing and using "VoicePresso Password Manager," you agree to the following terms.
+By installing and using "Vppm Password Manager," you agree to the following terms.
 
 ### 1. This is a Tool, Not a Service
 
