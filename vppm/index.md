@@ -65,4 +65,4 @@ This is a free extension. You acknowledge that as part of its use, the extension
 
 This extension is actively maintained. If you find a bug, have a feature request, or need any help, please open an issue on our GitHub repository.
 
-**[Click here to report an issue for "Memorable Password Manager"](https://github.com/QuantumJaguar/privacy-policy/issues/new?title=[Vppm%20Password%20Manager]%20Bug%20Report:&body=**Please%20describe%20your%20issue:**)**
+**[Click here to report an issue for "Vppm Password Manager"](https://github.com/QuantumJaguar/privacy-policy/issues/new?title=[Vppm%20Password%20Manager]%20Bug%20Report:&body=**Please%20describe%20your%20issue:**)**
