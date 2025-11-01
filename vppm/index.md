@@ -38,12 +38,21 @@ This extension makes one (1) anonymous network request approximately every 6 hou
 ## Terms of Use
 
 By installing and using "Vppm Password Manager," you agree to the following terms.
+### 1. License and Restrictions
 
-### 1. This is a Tool, Not a Service
+We grant you a personal, non-exclusive, non-transferable license to install and use this extension for its intended purpose. You agree **not** to:
+
+* **Reverse-engineer,** decompile, disassemble, or otherwise attempt to discover the source code or underlying algorithms of the extension.
+* **Modify,** copy, or create derivative works based on the extension.
+* **Resell,** rent, lease, or distribute the extension or create a competing product based on its features or code.
+
+All rights, title, and interest in the extension are and will remain the exclusive property of the developer.
+
+### 2. This is a Tool, Not a Service
 
 This extension is provided as a local software tool. It is not a cloud service. We do not manage your data, and unless you opt-in to a future cloud feature, we provide no account or cloud backup.
 
-### 2. Your Security is Your Responsibility
+### 3. Your Security is Your Responsibility
 
 The security of this extension is designed to protect your data from outside attackers. It cannot protect you from your own actions. You are solely responsible for the following:
 
@@ -51,11 +60,11 @@ The security of this extension is designed to protect your data from outside att
 * **The Exported Vault File:** This extension provides a feature to export your vault as a plain-text, **unencrypted** JSON file. This file is for your own backup convenience. You are solely responsible for the security of this exported file. Do not email it, share it, or leave it in an unsecured location.
 * **Phishing:** The extension's autofill feature matches the exact hostname (e.g., `google.com`). It is your responsibility to ensure you are on the correct, legitimate website before saving or filling credentials.
 
-### 3. Limitation of Liability
+### 4. Limitation of Liability
 
 This extension is provided "as is," without warranty of any kind. In no event shall the developer be liable for any claim, damages, or other liability, including any loss of data, loss of access, or other damages arising from the use of this software.
 
-### 4. Cross-Promotion
+### 5. Cross-Promotion
 
 This is a free extension. You acknowledge that as part of its use, the extension will display promotions for other extensions or products from the same developer, as described in the Privacy Policy.
 
@@ -66,3 +75,22 @@ This is a free extension. You acknowledge that as part of its use, the extension
 This extension is actively maintained. If you find a bug, have a feature request, or need any help, please open an issue on our GitHub repository.
 
 **[Click here to report an issue for "Vppm Password Manager"](https://github.com/QuantumJaguar/privacy-policy/issues/new?title=[Vppm%20Password%20Manager]%20Bug%20Report:&body=**Please%20describe%20your%20issue:**)**
+
+
+You absolutely **can** add that clause, and it's a very common practice.
+
+However, it's important to understand what this clause **can** and **cannot** do for you.
+
+* **What it does:** It gives you a clear *legal* basis to take action against someone (e.g., send a cease-and-desist letter) if you find they have stolen your code and are profiting from it.
+* **What it does not do:** It **cannot technically prevent** anyone from reverse-engineering your code. Since your extension is built with JavaScript, the source code is included in the package. An experienced developer can always read it.
+
+As we discussed, your primary defense is **not secrecy**; it's **trust** and the **store's policies** (which ban obfuscation). This clause is just an extra layer of legal protection.
+
+### How to Add It to Your Terms
+
+Here is the updated "Terms of Use" with a new section, "License and Restrictions," that includes this clause.
+
+
+
+
+
