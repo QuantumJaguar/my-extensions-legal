@@ -77,18 +77,7 @@ This extension is actively maintained. If you find a bug, have a feature request
 **[Click here to report an issue for "Vppm Password Manager"](https://github.com/QuantumJaguar/privacy-policy/issues/new?title=[Vppm%20Password%20Manager]%20Bug%20Report:&body=**Please%20describe%20your%20issue:**)**
 
 
-You absolutely **can** add that clause, and it's a very common practice.
 
-However, it's important to understand what this clause **can** and **cannot** do for you.
-
-* **What it does:** It gives you a clear *legal* basis to take action against someone (e.g., send a cease-and-desist letter) if you find they have stolen your code and are profiting from it.
-* **What it does not do:** It **cannot technically prevent** anyone from reverse-engineering your code. Since your extension is built with JavaScript, the source code is included in the package. An experienced developer can always read it.
-
-As we discussed, your primary defense is **not secrecy**; it's **trust** and the **store's policies** (which ban obfuscation). This clause is just an extra layer of legal protection.
-
-### How to Add It to Your Terms
-
-Here is the updated "Terms of Use" with a new section, "License and Restrictions," that includes this clause.
 
 
 
