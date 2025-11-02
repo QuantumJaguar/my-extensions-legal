@@ -1,10 +1,10 @@
-## Privacy Policy & Terms of Use for Vppm Password Manager
+## Privacy Policy & Terms of Use for VoicePresso Password Manager
 
 **Last Updated:** November 1, 2025
 
 ## Privacy Policy
 
-This extension (VPPM Password Manager) was built on a **privacy-first** philosophy. We do not sell your data.
+This extension (VoicePresso Password Manager) was built on a **privacy-first** philosophy. We do not sell your data.
 
 ### Your Master Password
 
@@ -37,7 +37,7 @@ This extension makes one (1) anonymous network request approximately every 6 hou
 
 ## Terms of Use
 
-By installing and using "Vppm Password Manager," you agree to the following terms.
+By installing and using "VoicePresso Password Manager," you agree to the following terms.
 ### 1. License and Restrictions
 
 We grant you a personal, non-exclusive, non-transferable license to install and use this extension for its intended purpose. You agree **not** to:
@@ -74,7 +74,7 @@ This is a free extension. You acknowledge that as part of its use, the extension
 
 This extension is actively maintained. If you find a bug, have a feature request, or need any help, please open an issue on our GitHub repository.
 
-**[Click here to report an issue for "Vppm Password Manager"](https://github.com/QuantumJaguar/privacy-policy/issues/new?title=[Vppm%20Password%20Manager]%20Bug%20Report:&body=**Please%20describe%20your%20issue:**)**
+**[Click here to report an issue for "VoicePresso Password Manager"](https://github.com/QuantumJaguar/privacy-policy/issues/new?title=[VoicePresso%20Password%20Manager]%20Bug%20Report:&body=**Please%20describe%20your%20issue:**)**
 
 
 
